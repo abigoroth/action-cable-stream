@@ -1,0 +1,17 @@
+h1 Listing conversations
+
+table
+
+  tbody
+    - @conversations.each do |conversation|
+      tr
+        td = "#{conversation.user.email} :"
+        td = conversation.msg
+        / td = link_to 'Show', conversation
+        / td = link_to 'Edit', edit_conversation_path(conversation)
+        / td = link_to 'Destroy', conversation, data: { confirm: 'Are you sure?' }, method: :delete
+
+br
+- @conversation = Conversation.new(user_id: current_user.id)
+= render 'form'
+/ = link_to 'New Conversation', new_conversation_path
