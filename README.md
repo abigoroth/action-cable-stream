@@ -1,24 +1,4 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://www.facebook.com/yakob.aljarumi/videos/1220275084842445/?hc_ref=ARRNfr-Z2oN9r-6lwB7xQYzh-_rwdvL6zjadAtUYbyr6BKTdj50cozqXAuxG0T8a0O8&ref=nf_target&fref=gs&dti=140411929363818&hc_location=group
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Image of Yaktocat](https://user-images.githubusercontent.com/520990/75625992-660a6700-5bfe-11ea-9722-323f5ac6cd67.png)
